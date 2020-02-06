@@ -1,0 +1,30 @@
+{
+    "commands": {
+        "start": {
+            "code": 0,
+            "args": []
+        },
+        "end": {
+            "code": 10,
+            "args": []
+        },
+        "loopstart": {
+            "code": 5,
+            "args": [
+                {
+                    "default": "",
+                    "required": true
+                },
+                {
+                    "required": true,
+                    "type": "int",
+                    "length": 2
+                }
+            ]
+        },
+        "loopend": {
+            "code": 6,
+            "args": []
+        }
+    }
+}

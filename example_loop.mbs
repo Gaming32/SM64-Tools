@@ -1,0 +1,5 @@
+script # comment
+droptoground#go to ground
+gameloop {
+    scale 101
+}
