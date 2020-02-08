@@ -177,12 +177,13 @@ def script_compile(file, return_context=False):
 
 def main(args=sys.argv[1:]):
     # parser = argparse.ArgumentParser(prog='python -m sm64tools script')
-    parser = argparse.ArgumentParser()
-    subp_man = parser.add_subparsers(title='job', dest='job')
+    parser = argparse.ArgumentParser(description='tools for behavior scripting')
+    subp_man = parser.add_subparsers(title='job', dest='job', help="the job to do stuff. run 'sm64tools script <job> --help' for more info")
 
-    comp_parser = subp_man.add_parser('compile')
-    comp_parser.add_argument('file', type=argparse.FileType('r'))
-    comp_parser.add_argument('-t', '--output-type', dest='output_type', choices=['flat', 'pretty'], default='pretty')
+    comp_parser = subp_man.add_parser('compile', description='compiles the specified script and prints the output')
+    comp_parser.add_argument('file', type=argparse.FileType('r'), help='the script to compile')
+    comp_parser.add_argument('-t', '--output-type', dest='output_type', choices=['flat', 'pretty'], default='pretty',
+        help="the way to display the compiled bytecode. 'flat' looks like this: 1a3d9f; 'pretty' looks like this: 1A 3D 9F. defaults to 'pretty'")
 
     args = parser.parse_args(args)
     if args.job == 'compile':
