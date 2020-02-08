@@ -1,0 +1,1950 @@
+{
+    "star door": {
+        "addr": 2203136,
+        "length": 84
+    },
+    "mr i.": {
+        "addr": 2203220,
+        "length": 56
+    },
+    "mr. i body": {
+        "addr": 2203276,
+        "length": 32
+    },
+    "mr i particle": {
+        "addr": 2203308,
+        "length": 76
+    },
+    "giant piranha particle": {
+        "addr": 2203384,
+        "length": 32
+    },
+    "giant pole (whomp's fortress)": {
+        "addr": 2203416,
+        "length": 44
+    },
+    "pole grabbing": {
+        "addr": 2203460,
+        "length": 48
+    },
+    "th island top trap": {
+        "addr": 2203508,
+        "length": 32
+    },
+    "tiny island top": {
+        "addr": 2203540,
+        "length": 24
+    },
+    "crashes game, collision pointer error": {
+        "addr": 2203564,
+        "length": 32
+    },
+    "activate cap switch": {
+        "addr": 2203596,
+        "length": 40
+    },
+    "king bob omb behavior": {
+        "addr": 2203636,
+        "length": 96
+    },
+    "anchor mario (king bob omb)": {
+        "addr": 2203732,
+        "length": 36
+    },
+    "lakitu thing?": {
+        "addr": 2203768,
+        "length": 36
+    },
+    "acts like a door?": {
+        "addr": 2203804,
+        "length": 28
+    },
+    "bubble (mario)": {
+        "addr": 2203832,
+        "length": 12
+    },
+    "doesn't do anything": {
+        "addr": 2220768,
+        "length": 28
+    },
+    "spawned with model id a8 (bubble?)": {
+        "addr": 2203876,
+        "length": 84
+    },
+    "small water wave (mario)": {
+        "addr": 2203960,
+        "length": 132
+    },
+    "doesn't do anything?": {
+        "addr": 2206716,
+        "length": 40
+    },
+    "small reddish particle / water particles": {
+        "addr": 2204160,
+        "length": 40
+    },
+    "water waves": {
+        "addr": 2204200,
+        "length": 28
+    },
+    "small reddish particle / snow particle": {
+        "addr": 2204268,
+        "length": 40
+    },
+    "aquarium fish group": {
+        "addr": 2204308,
+        "length": 20
+    },
+    "opened cannon": {
+        "addr": 2204328,
+        "length": 60
+    },
+    "cannon barrel": {
+        "addr": 2204388,
+        "length": 28
+    },
+    "cannon base": {
+        "addr": 2204416,
+        "length": 40
+    },
+    "chuckya": {
+        "addr": 2204456,
+        "length": 92
+    },
+    "anchor mario (chuckya)": {
+        "addr": 2204548,
+        "length": 36
+    },
+    "rotating platform": {
+        "addr": 2204596,
+        "length": 36
+    },
+    "tower behav": {
+        "addr": 2204632,
+        "length": 40
+    },
+    "bullet bill cannon behav": {
+        "addr": 2204672,
+        "length": 36
+    },
+    "breakable wall": {
+        "addr": 2204708,
+        "length": 20
+    },
+    "breakable wall 2": {
+        "addr": 2204728,
+        "length": 52
+    },
+    "kickable board": {
+        "addr": 2204780,
+        "length": 56
+    },
+    "tower door behav": {
+        "addr": 2204836,
+        "length": 52
+    },
+    "rotating counter clockwise (bridge in whomp's fortress) (srsly?)": {
+        "addr": 2204888,
+        "length": 8
+    },
+    "clock like rotation": {
+        "addr": 2204896,
+        "length": 40
+    },
+    "koopa shell powerup (underwater)": {
+        "addr": 2204936,
+        "length": 24
+    },
+    "exit podium warp": {
+        "addr": 2204960,
+        "length": 60
+    },
+    "fading warp": {
+        "addr": 2205020,
+        "length": 36
+    },
+    "warp": {
+        "addr": 2205056,
+        "length": 32
+    },
+    "warp (pipe)": {
+        "addr": 2205088,
+        "length": 60
+    },
+    "scuttlebug explosion (or any other white puff)": {
+        "addr": 2205148,
+        "length": 28
+    },
+    "spawned star (takes mother object coordinates)": {
+        "addr": 2205176,
+        "length": 20
+    },
+    "acts like normal levels stars (runs by 100 coins), toad star": {
+        "addr": 2205196,
+        "length": 36
+    },
+    "blue coin from mr.i": {
+        "addr": 2205232,
+        "length": 88
+    },
+    "coin inside of boo": {
+        "addr": 2205320,
+        "length": 72
+    },
+    "coin in formation spawn+deactivator?": {
+        "addr": 2205392,
+        "length": 28
+    },
+    "coin formation": {
+        "addr": 2205420,
+        "length": 32
+    },
+    "one coin": {
+        "addr": 2205452,
+        "length": 16
+    },
+    "collectable coin": {
+        "addr": 2205468,
+        "length": 36
+    },
+    "belongs to a yellow coin": {
+        "addr": 2205504,
+        "length": 36
+    },
+    "three coins spawn": {
+        "addr": 2205540,
+        "length": 32
+    },
+    "ten coins spawn": {
+        "addr": 2205572,
+        "length": 32
+    },
+    "single coin gets spawned": {
+        "addr": 2205604,
+        "length": 60
+    },
+    "sparkles (from all types of coins)": {
+        "addr": 2205664,
+        "length": 52
+    },
+    "sparkles (from golden coins)": {
+        "addr": 2205716,
+        "length": 32
+    },
+    "tiny star particle (when mario bumps a wall)": {
+        "addr": 2205748,
+        "length": 32
+    },
+    "tiny star particle spawn (when mario bumps a wall)": {
+        "addr": 2205780,
+        "length": 16
+    },
+    "tiny star particle (from ground pound?)": {
+        "addr": 2205796,
+        "length": 20
+    },
+    "tiny star particle (from ground pound)": {
+        "addr": 2205816,
+        "length": 32
+    },
+    "tiny star particle spawn (from ground pound)": {
+        "addr": 2205848,
+        "length": 36
+    },
+    "tiny triangle (punching something) / dirt": {
+        "addr": 2205884,
+        "length": 28
+    },
+    "tiny triangle spawn (punching something)": {
+        "addr": 2205912,
+        "length": 16
+    },
+    "door warp": {
+        "addr": 2205948,
+        "length": 16
+    },
+    "door": {
+        "addr": 2205964,
+        "length": 76
+    },
+    "grindel": {
+        "addr": 2224220,
+        "length": 88
+    },
+    "thwomp behavior 2": {
+        "addr": 2206092,
+        "length": 60
+    },
+    "thwomp": {
+        "addr": 2206152,
+        "length": 60
+    },
+    "used by all tumbling bridge platforms": {
+        "addr": 2206212,
+        "length": 36
+    },
+    "tumbling bridge behavior(wf)": {
+        "addr": 2206248,
+        "length": 28
+    },
+    "tumbling platform group (big boo's haunt)": {
+        "addr": 2206276,
+        "length": 32
+    },
+    "tumbling platform": {
+        "addr": 2206308,
+        "length": 32
+    },
+    "burning": {
+        "addr": 2206340,
+        "length": 68
+    },
+    "trolls you. warps up, if you are down, warps down, if you are up / another elevator (re-check)": {
+        "addr": 2206408,
+        "length": 52
+    },
+    "elevator platform in rr (param2 = track#)": {
+        "addr": 2206460,
+        "length": 52
+    },
+    "elevator platform in hmc (param2 = track#)": {
+        "addr": 2206512,
+        "length": 60
+    },
+    "water mist": {
+        "addr": 2206572,
+        "length": 44
+    },
+    "spawn behavior 0x13000d6c": {
+        "addr": 2206616,
+        "length": 28
+    },
+    "water mist behav": {
+        "addr": 2206680,
+        "length": 36
+    },
+    ">white puffs (from ground pound)": {
+        "addr": 2206756,
+        "length": 24
+    },
+    "sand (from ground)": {
+        "addr": 2206780,
+        "length": 4
+    },
+    "doesn't do anything?/ something with the ground probably": {
+        "addr": 2206784,
+        "length": 24
+    },
+    "snow (from ground)": {
+        "addr": 2206808,
+        "length": 24
+    },
+    "wind (from collision mapped areas)": {
+        "addr": 2206832,
+        "length": 24
+    },
+    "toad at end": {
+        "addr": 2206856,
+        "length": 36
+    },
+    "peach at the end": {
+        "addr": 2206892,
+        "length": 36
+    },
+    "ukiki": {
+        "addr": 2206984,
+        "length": 12
+    },
+    "doesn't do anything, unused": {
+        "addr": 2216972,
+        "length": 8
+    },
+    "rotates as fast as the star, doesn't do any more things": {
+        "addr": 2207020,
+        "length": 28
+    },
+    "little cage": {
+        "addr": 2207048,
+        "length": 84
+    },
+    "sinking platforms (bowser's fire sea)": {
+        "addr": 2207132,
+        "length": 44
+    },
+    "sinking cage platform (bowser's fire sea)": {
+        "addr": 2207176,
+        "length": 56
+    },
+    "moving pole (dire, dire docks)": {
+        "addr": 2207232,
+        "length": 48
+    },
+    "tilting inverted pyramid": {
+        "addr": 2211064,
+        "length": 56
+    },
+    "squishable platforms": {
+        "addr": 2207332,
+        "length": 52
+    },
+    "flame moving back and forth (unused)": {
+        "addr": 2207416,
+        "length": 32
+    },
+    "rotating platform with fire (rainbow ride)": {
+        "addr": 2207448,
+        "length": 48
+    },
+    "flame thrower": {
+        "addr": 2207496,
+        "length": 28
+    },
+    "flame from flamethrower": {
+        "addr": 2207524,
+        "length": 68
+    },
+    "jumping fireball (fireball spawner)": {
+        "addr": 2207592,
+        "length": 28
+    },
+    "flame (from jumping fireballs)": {
+        "addr": 2207620,
+        "length": 76
+    },
+    "bowser shock wave": {
+        "addr": 2207696,
+        "length": 28
+    },
+    "flame (from mario)": {
+        "addr": 2207724,
+        "length": 40
+    },
+    "black smoke (from mario)": {
+        "addr": 2207764,
+        "length": 64
+    },
+    "black smoke (from bowser flames)": {
+        "addr": 2207828,
+        "length": 40
+    },
+    "black smoke (moving upward)": {
+        "addr": 2207868,
+        "length": 28
+    },
+    "multiple coins": {
+        "addr": 2207896,
+        "length": 28
+    },
+    "spindrift": {
+        "addr": 2207924,
+        "length": 64
+    },
+    "tower platform group (also disables collision type 0x65 camera settings)": {
+        "addr": 2207988,
+        "length": 36
+    },
+    "whomp's fortress sliding platforms": {
+        "addr": 2208024,
+        "length": 40
+    },
+    "whomp's fortress elevator platform": {
+        "addr": 2208064,
+        "length": 40
+    },
+    "whomp's fortress solid platform": {
+        "addr": 2208104,
+        "length": 40
+    },
+    "doesn't do anything, unused?": {
+        "addr": 2224660,
+        "length": 44
+    },
+    "snow from tree": {
+        "addr": 2208168,
+        "length": 28
+    },
+    "leaves from tree": {
+        "addr": 2208196,
+        "length": 24
+    },
+    "another tilting platform": {
+        "addr": 2208220,
+        "length": 44
+    },
+    "moving on a squarish path": {
+        "addr": 2208264,
+        "length": 36
+    },
+    "bubble from piranha plant": {
+        "addr": 2208300,
+        "length": 28
+    },
+    "bubbles (after waking piranha plant)": {
+        "addr": 2208328,
+        "length": 32
+    },
+    "purple switch (bowser staircase)": {
+        "addr": 2208360,
+        "length": 16
+    },
+    "floor switch for grills": {
+        "addr": 2208376,
+        "length": 12
+    },
+    "floor switch with hardcoded modell": {
+        "addr": 2208388,
+        "length": 40
+    },
+    "floor switch shows hidden objects": {
+        "addr": 2208428,
+        "length": 16
+    },
+    "hidden object": {
+        "addr": 2208444,
+        "length": 36
+    },
+    "breakable box": {
+        "addr": 2220056,
+        "length": 44
+    },
+    "pushable": {
+        "addr": 2208536,
+        "length": 48
+    },
+    "heave-ho": {
+        "addr": 2208584,
+        "length": 92
+    },
+    "unknown, gfx 78/64?": {
+        "addr": 2208676,
+        "length": 28
+    },
+    "cabin door?": {
+        "addr": 2208704,
+        "length": 36
+    },
+    "explodes when pounded (unused ice square in snowman's land)": {
+        "addr": 2208740,
+        "length": 36
+    },
+    "beta trampoline behavior?": {
+        "addr": 2208776,
+        "length": 44
+    },
+    "spawned by beta rampoline?": {
+        "addr": 2208820,
+        "length": 28
+    },
+    "jumping box": {
+        "addr": 2208848,
+        "length": 44
+    },
+    "cage (inside of boo)": {
+        "addr": 2208892,
+        "length": 48
+    },
+    "igloo thing": {
+        "addr": 2208952,
+        "length": 44
+    },
+    "bowser key 2": {
+        "addr": 2208996,
+        "length": 48
+    },
+    "grand star": {
+        "addr": 2209044,
+        "length": 48
+    },
+    "beta boo key (inside of boo)": {
+        "addr": 2209092,
+        "length": 52
+    },
+    "beta boo key (outside of boo)": {
+        "addr": 2209144,
+        "length": 36
+    },
+    "bullet bill behav": {
+        "addr": 2209180,
+        "length": 88
+    },
+    "white puff / smoke type": {
+        "addr": 2212648,
+        "length": 48
+    },
+    "doesn't do anything, pretty much useless": {
+        "addr": 2209312,
+        "length": 8
+    },
+    "bowser tail anchor": {
+        "addr": 2209320,
+        "length": 40
+    },
+    "bowser": {
+        "addr": 2209360,
+        "length": 124
+    },
+    "bowser body anchor": {
+        "addr": 2209484,
+        "length": 56
+    },
+    "bowser flame spawn": {
+        "addr": 2209540,
+        "length": 28
+    },
+    "tilting bowser lava platform": {
+        "addr": 2209568,
+        "length": 56
+    },
+    "falling bowser platform": {
+        "addr": 2209624,
+        "length": 44
+    },
+    "blue flame (from bowser)": {
+        "addr": 2209668,
+        "length": 68
+    },
+    "flame (floating and landing)": {
+        "addr": 2209736,
+        "length": 68
+    },
+    "blue flames group (x3)": {
+        "addr": 2209804,
+        "length": 36
+    },
+    "flame (bouncing) unused?": {
+        "addr": 2209840,
+        "length": 68
+    },
+    "flame (moving forward growing)": {
+        "addr": 2209908,
+        "length": 48
+    },
+    "flame (from bowser)": {
+        "addr": 2209956,
+        "length": 68
+    },
+    "flame (large and burning out)": {
+        "addr": 2210024,
+        "length": 68
+    },
+    "blue fish": {
+        "addr": 2210092,
+        "length": 40
+    },
+    "fish groups in castle tanks": {
+        "addr": 2210132,
+        "length": 28
+    },
+    "checkerboard elevators group": {
+        "addr": 2210160,
+        "length": 24
+    },
+    "rotates 180, stop, rotates 180;rotating checkered platform (unused?)": {
+        "addr": 2210184,
+        "length": 44
+    },
+    "bowser key (going into hole and turning) 1": {
+        "addr": 2210228,
+        "length": 32
+    },
+    "bowser key (going into hole and turning) 2": {
+        "addr": 2210260,
+        "length": 32
+    },
+    "invisible object underneath castle bridge ??": {
+        "addr": 2210292,
+        "length": 16
+    },
+    "water level pillar": {
+        "addr": 2210308,
+        "length": 48
+    },
+    "dire, dire docks warp": {
+        "addr": 2210356,
+        "length": 36
+    },
+    "moat grills (disable if water is drained)": {
+        "addr": 2210392,
+        "length": 36
+    },
+    "clock big arm": {
+        "addr": 2210428,
+        "length": 16
+    },
+    "rotating small clock arm": {
+        "addr": 2210444,
+        "length": 36
+    },
+    "ukiki the monkey (opens cage)": {
+        "addr": 2210480,
+        "length": 92
+    },
+    "rotating ccw": {
+        "addr": 2210580,
+        "length": 44
+    },
+    "sinks when stepping on it": {
+        "addr": 2210624,
+        "length": 48
+    },
+    "moving horizontally": {
+        "addr": 2210680,
+        "length": 44
+    },
+    "snow ball": {
+        "addr": 2210724,
+        "length": 4
+    },
+    "rotating cw with fire bars": {
+        "addr": 2210728,
+        "length": 36
+    },
+    "flame (on rotating hexagon in lll)": {
+        "addr": 2210764,
+        "length": 56
+    },
+    "piece of wood (lll) / slightly moving up and down": {
+        "addr": 2210820,
+        "length": 44
+    },
+    "floating wood bridge": {
+        "addr": 2210864,
+        "length": 28
+    },
+    "flames (from volcano)": {
+        "addr": 2210892,
+        "length": 32
+    },
+    "rotating platform (stops and produces fire if stepped on) (lll)": {
+        "addr": 2210924,
+        "length": 40
+    },
+    "slow and minimal tilting movement (lll)": {
+        "addr": 2210964,
+        "length": 48
+    },
+    "slow and minimal up-down movement (lll)": {
+        "addr": 2211012,
+        "length": 52
+    },
+    "koopa shell": {
+        "addr": 2211132,
+        "length": 44
+    },
+    "flame (koopa shell in lava)": {
+        "addr": 2211176,
+        "length": 40
+    },
+    "tox box": {
+        "addr": 2211216,
+        "length": 44
+    },
+    "piranha plant behav 2": {
+        "addr": 2211260,
+        "length": 92
+    },
+    "solid object (lll hexagonal mesh)": {
+        "addr": 2211352,
+        "length": 32
+    },
+    "bowser puzzle piece": {
+        "addr": 2211384,
+        "length": 48
+    },
+    "bowser puzzle (only in lethal lava land)": {
+        "addr": 2211432,
+        "length": 32
+    },
+    "tuxie's mother": {
+        "addr": 2211464,
+        "length": 80
+    },
+    "related to penguin baby?": {
+        "addr": 2211544,
+        "length": 8
+    },
+    "small penguin": {
+        "addr": 2211560,
+        "length": 84
+    },
+    "fish 2": {
+        "addr": 2211644,
+        "length": 16
+    },
+    "fish 3": {
+        "addr": 2211660,
+        "length": 16
+    },
+    "large group of fish": {
+        "addr": 2211676,
+        "length": 28
+    },
+    "group of fish": {
+        "addr": 2211704,
+        "length": 28
+    },
+    "moves down when stepped on, and then back to initial position (wdw \"express elevators\")": {
+        "addr": 2211732,
+        "length": 44
+    },
+    "solid object (wdw express elevator platform)": {
+        "addr": 2211776,
+        "length": 36
+    },
+    "chirp chirp": {
+        "addr": 2211812,
+        "length": 40
+    },
+    "cheep-cheep": {
+        "addr": 2211852,
+        "length": 68
+    },
+    "[!] box": {
+        "addr": 2211920,
+        "length": 44
+    },
+    "rotating exclamation mark": {
+        "addr": 2211964,
+        "length": 32
+    },
+    "this behavior just plays a sound / called by some spawned objects": {
+        "addr": 2211996,
+        "length": 28
+    },
+    "rock solid": {
+        "addr": 2212024,
+        "length": 32
+    },
+    "bowser sub door behavior / disable if first star is complete": {
+        "addr": 2212056,
+        "length": 48
+    },
+    "bowser's sub behavior / disable if first star is complete": {
+        "addr": 2212104,
+        "length": 48
+    },
+    "sushi the shark": {
+        "addr": 2212152,
+        "length": 80
+    },
+    "sushi the shark collision child": {
+        "addr": 2212232,
+        "length": 28
+    },
+    "sliding box (jolly roger bay": {
+        "addr": 2212260,
+        "length": 44
+    },
+    "ship part 3": {
+        "addr": 2212304,
+        "length": 28
+    },
+    "in sunken ship 3?": {
+        "addr": 2212332,
+        "length": 48
+    },
+    "sunken ship part": {
+        "addr": 2212380,
+        "length": 16
+    },
+    "crashes game": {
+        "addr": 2212396,
+        "length": 32
+    },
+    "sunken ship part 2": {
+        "addr": 2212428,
+        "length": 32
+    },
+    "in sunken ship?": {
+        "addr": 2212460,
+        "length": 20
+    },
+    "description: in sunken ship 2?": {
+        "addr": 2212480,
+        "length": 44
+    },
+    "marios dust / white puff generator": {
+        "addr": 2212524,
+        "length": 48
+    },
+    "spawned by 24ac / white puff (from mario)": {
+        "addr": 2212572,
+        "length": 36
+    },
+    "spawned by 24ac / white puff from mario 2": {
+        "addr": 2212608,
+        "length": 40
+    },
+    "purple switch (for hidden boxes)": {
+        "addr": 2212696,
+        "length": 16
+    },
+    "blue coins switching": {
+        "addr": 2212712,
+        "length": 32
+    },
+    "hidden blue coin": {
+        "addr": 2212744,
+        "length": 56
+    },
+    "cage door (bob & hmc)": {
+        "addr": 2212800,
+        "length": 32
+    },
+    "openable grills": {
+        "addr": 2212832,
+        "length": 24
+    },
+    "water level trigger": {
+        "addr": 2212856,
+        "length": 40
+    },
+    "initialize behavior 0x130025f8": {
+        "addr": 2212896,
+        "length": 20
+    },
+    "sand particle from tweester": {
+        "addr": 2212916,
+        "length": 28
+    },
+    "tweester behav": {
+        "addr": 2212944,
+        "length": 52
+    },
+    "spawn ghosts (spawn big boo when all are destroyed)": {
+        "addr": 2212996,
+        "length": 24
+    },
+    "animated texture ??": {
+        "addr": 2213020,
+        "length": 56
+    },
+    "boo in castle": {
+        "addr": 2213076,
+        "length": 60
+    },
+    "boo buddy with cage": {
+        "addr": 2213136,
+        "length": 88
+    },
+    "big boo buddy (balcony)": {
+        "addr": 2213224,
+        "length": 20
+    },
+    "big boo buddy (merry-go-round)": {
+        "addr": 2213244,
+        "length": 20
+    },
+    "big boo buddy (ghost hunt)": {
+        "addr": 2213264,
+        "length": 64
+    },
+    "boo buddy group (x3)": {
+        "addr": 2213328,
+        "length": 20
+    },
+    "boo buddy": {
+        "addr": 2213348,
+        "length": 16
+    },
+    "boo buddy (merry-go-round)": {
+        "addr": 2213364,
+        "length": 16
+    },
+    "boo buddy (ghost hunt)": {
+        "addr": 2213380,
+        "length": 104
+    },
+    "hidden staircase step": {
+        "addr": 2213484,
+        "length": 44
+    },
+    "doesn't do anything, bad collision pointer": {
+        "addr": 2213528,
+        "length": 52
+    },
+    "tilts on z-axis when stepped on (haunted house floor platforms)": {
+        "addr": 2213580,
+        "length": 48
+    },
+    "tumbling bookshelf": {
+        "addr": 2213628,
+        "length": 48
+    },
+    "mesh elevator": {
+        "addr": 2213676,
+        "length": 60
+    },
+    "rotating merry-go-round": {
+        "addr": 2213736,
+        "length": 48
+    },
+    "plays music track when touched (used along with penguin shortcut)": {
+        "addr": 2213784,
+        "length": 24
+    },
+    "inside cannon": {
+        "addr": 2213808,
+        "length": 4
+    },
+    "object is always in front of mario": {
+        "addr": 2213812,
+        "length": 48
+    },
+    "static checkered platform (unused?)": {
+        "addr": 2213860,
+        "length": 44
+    },
+    "doesn't do anything, has billboarding, unused": {
+        "addr": 2213904,
+        "length": 16
+    },
+    "star ??": {
+        "addr": 2213920,
+        "length": 40
+    },
+    "static object": {
+        "addr": 2213960,
+        "length": 12
+    },
+    "castle floor trap": {
+        "addr": 2213980,
+        "length": 32
+    },
+    "floor trap in castle": {
+        "addr": 2214012,
+        "length": 40
+    },
+    "tree": {
+        "addr": 2214052,
+        "length": 44
+    },
+    "sparkles (power-ups)": {
+        "addr": 2214128,
+        "length": 24
+    },
+    "sparkles (from special triple jump)": {
+        "addr": 2214152,
+        "length": 12
+    },
+    "scutlebug": {
+        "addr": 2214236,
+        "length": 68
+    },
+    "scutlebug spawner": {
+        "addr": 2214304,
+        "length": 24
+    },
+    "whomp king boss behav": {
+        "addr": 2214328,
+        "length": 20
+    },
+    "small whomp": {
+        "addr": 2214348,
+        "length": 72
+    },
+    "water splash": {
+        "addr": 2214420,
+        "length": 76
+    },
+    "water drops / starting at 2c60?": {
+        "addr": 2214496,
+        "length": 28
+    },
+    "white wave on water surface": {
+        "addr": 2214524,
+        "length": 52
+    },
+    "waves on surface": {
+        "addr": 2214624,
+        "length": 72
+    },
+    "white wave on water surface 2 / spot on ground?": {
+        "addr": 2214696,
+        "length": 40
+    },
+    "waves generator": {
+        "addr": 2214736,
+        "length": 44
+    },
+    "wave on surface (shrinking)": {
+        "addr": 2214780,
+        "length": 52
+    },
+    "water type": {
+        "addr": 2214832,
+        "length": 16
+    },
+    "wave trail on surface": {
+        "addr": 2214848,
+        "length": 68
+    },
+    "tiny white particles from wind generators": {
+        "addr": 2214916,
+        "length": 28
+    },
+    "wind particle (blows mario away)": {
+        "addr": 2214944,
+        "length": 28
+    },
+    "wind blowing (snow man)": {
+        "addr": 2214972,
+        "length": 28
+    },
+    "walking penguin": {
+        "addr": 2215000,
+        "length": 80
+    },
+    "yellow ball (pole in wf)": {
+        "addr": 2215080,
+        "length": 24
+    },
+    "mario's behavior!": {
+        "addr": 2215104,
+        "length": 56
+    },
+    "toad message": {
+        "addr": 2215160,
+        "length": 72
+    },
+    "sstar (held up when opening a sealed door)": {
+        "addr": 2215232,
+        "length": 32
+    },
+    "warps": {
+        "addr": 2215264,
+        "length": 64
+    },
+    "yellow background in menu": {
+        "addr": 2215360,
+        "length": 36
+    },
+    "menu growing button": {
+        "addr": 2215396,
+        "length": 36
+    },
+    "gray button": {
+        "addr": 2215432,
+        "length": 36
+    },
+    "star in act selector": {
+        "addr": 2215468,
+        "length": 28
+    },
+    "act selector": {
+        "addr": 2215496,
+        "length": 32
+    },
+    "coin inside of formation": {
+        "addr": 2215528,
+        "length": 60
+    },
+    "moving blue coin": {
+        "addr": 2215588,
+        "length": 48
+    },
+    "blue coin (sliding)": {
+        "addr": 2215636,
+        "length": 48
+    },
+    "blue coin (jumping)": {
+        "addr": 2215684,
+        "length": 48
+    },
+    "seaweed": {
+        "addr": 2215732,
+        "length": 36
+    },
+    "bubbles": {
+        "addr": 2216136,
+        "length": 24
+    },
+    "bob-omb": {
+        "addr": 2215796,
+        "length": 56
+    },
+    "bob omb dust": {
+        "addr": 2215852,
+        "length": 48
+    },
+    "pink bob-omb with message": {
+        "addr": 2215900,
+        "length": 76
+    },
+    "pink bob-omb opening cannon behav": {
+        "addr": 2215976,
+        "length": 76
+    },
+    "cannon trap door": {
+        "addr": 2216052,
+        "length": 52
+    },
+    "whirlpool death": {
+        "addr": 2216104,
+        "length": 32
+    },
+    "message panel": {
+        "addr": 2216160,
+        "length": 68
+    },
+    "sign on wall": {
+        "addr": 2216228,
+        "length": 48
+    },
+    "amp 2": {
+        "addr": 2216276,
+        "length": 52
+    },
+    "amp": {
+        "addr": 2216328,
+        "length": 52
+    },
+    "butterfly behav": {
+        "addr": 2216380,
+        "length": 48
+    },
+    "owl": {
+        "addr": 2216428,
+        "length": 52
+    },
+    "beta green shell?": {
+        "addr": 2216480,
+        "length": 52
+    },
+    "dirt": {
+        "addr": 2216580,
+        "length": 64
+    },
+    "water wave": {
+        "addr": 2216644,
+        "length": 76
+    },
+    "explosion": {
+        "addr": 2216720,
+        "length": 72
+    },
+    "large white smoke cloud": {
+        "addr": 2216792,
+        "length": 48
+    },
+    "smoke behavior": {
+        "addr": 2216840,
+        "length": 40
+    },
+    "white particle / water drop": {
+        "addr": 2216880,
+        "length": 84
+    },
+    "crashes game?": {
+        "addr": 2216980,
+        "length": 24
+    },
+    "small bully": {
+        "addr": 2217004,
+        "length": 52
+    },
+    "big bully boss": {
+        "addr": 2217056,
+        "length": 52
+    },
+    "bully": {
+        "addr": 2217108,
+        "length": 52
+    },
+    "small ice bully": {
+        "addr": 2217160,
+        "length": 56
+    },
+    "chill bully boss": {
+        "addr": 2217216,
+        "length": 56
+    },
+    "manta rings generator": {
+        "addr": 2217272,
+        "length": 24
+    },
+    "water bubble replenishes health / water rings": {
+        "addr": 2217296,
+        "length": 72
+    },
+    "water bubble replenishes health (used under water) / water rings": {
+        "addr": 2217368,
+        "length": 72
+    },
+    "something invisible, that just does nothing.": {
+        "addr": 2217440,
+        "length": 12
+    },
+    "bowser bomb": {
+        "addr": 2217452,
+        "length": 48
+    },
+    "explosion (from spikey bombs) pt.1": {
+        "addr": 2217500,
+        "length": 36
+    },
+    "explosion (from spikey bombs) pt.2": {
+        "addr": 2217536,
+        "length": 40
+    },
+    "star celebration star": {
+        "addr": 2217576,
+        "length": 32
+    },
+    "sparkles (when mario grabs a key)": {
+        "addr": 2217608,
+        "length": 40
+    },
+    "related to act selector? / white puff type?!": {
+        "addr": 2217648,
+        "length": 32
+    },
+    "bascule bridge": {
+        "addr": 2217680,
+        "length": 24
+    },
+    "rotates 45 degree around x, then goes back. mario is not affected / tilting bridge part (lll)": {
+        "addr": 2217704,
+        "length": 40
+    },
+    "moves back & forth 1 / rock formation with eyes": {
+        "addr": 2217744,
+        "length": 48
+    },
+    "moves back & forth 2 / large rock with eyes": {
+        "addr": 2217792,
+        "length": 48
+    },
+    "sliding brick platform 2": {
+        "addr": 2217840,
+        "length": 48
+    },
+    "moneybag transforming": {
+        "addr": 2217888,
+        "length": 52
+    },
+    "moneybag behav": {
+        "addr": 2217940,
+        "length": 52
+    },
+    "rolling ball": {
+        "addr": 2217992,
+        "length": 40
+    },
+    "rolling metal ball": {
+        "addr": 2218032,
+        "length": 40
+    },
+    "tiny metal ball": {
+        "addr": 2218072,
+        "length": 40
+    },
+    "metal ball generator 2": {
+        "addr": 2218112,
+        "length": 36
+    },
+    "metal ball generator": {
+        "addr": 2218148,
+        "length": 36
+    },
+    "mini metal balls generator": {
+        "addr": 2218184,
+        "length": 24
+    },
+    "flapping wing": {
+        "addr": 2218208,
+        "length": 32
+    },
+    "spindel": {
+        "addr": 2218240,
+        "length": 48
+    },
+    "moving up and down": {
+        "addr": 2218288,
+        "length": 48
+    },
+    "pyramid elevator": {
+        "addr": 2218336,
+        "length": 56
+    },
+    "metal balls for pyramid elevator": {
+        "addr": 2218392,
+        "length": 28
+    },
+    "pyramid top behav": {
+        "addr": 2218420,
+        "length": 56
+    },
+    "pyramid top explosion": {
+        "addr": 2218476,
+        "length": 32
+    },
+    "disappears after touching it": {
+        "addr": 2218508,
+        "length": 36
+    },
+    "playsound loop (waterfall)": {
+        "addr": 2218544,
+        "length": 20
+    },
+    "playsound loop (volcano)": {
+        "addr": 2218564,
+        "length": 20
+    },
+    "castle flag waving": {
+        "addr": 2218584,
+        "length": 36
+    },
+    "playsound loop (birds)": {
+        "addr": 2218620,
+        "length": 20
+    },
+    "l is real 2041 / ambient sounds?": {
+        "addr": 2218640,
+        "length": 20
+    },
+    "playsound loop (sand)": {
+        "addr": 2218660,
+        "length": 20
+    },
+    "hidden at 120 stars": {
+        "addr": 2218680,
+        "length": 44
+    },
+    "snowman's bottom": {
+        "addr": 2218724,
+        "length": 40
+    },
+    "snowman's head behav": {
+        "addr": 2218764,
+        "length": 40
+    },
+    "checkpoint for big snowman's body": {
+        "addr": 2218804,
+        "length": 24
+    },
+    "big snowman (whole body)": {
+        "addr": 2218828,
+        "length": 40
+    },
+    "big boulder": {
+        "addr": 2218868,
+        "length": 44
+    },
+    "drops giant boulders": {
+        "addr": 2218912,
+        "length": 24
+    },
+    "wing cap": {
+        "addr": 2218936,
+        "length": 32
+    },
+    "metal cap": {
+        "addr": 2218968,
+        "length": 32
+    },
+    "normal cap": {
+        "addr": 2219000,
+        "length": 36
+    },
+    "vanish cap": {
+        "addr": 2219036,
+        "length": 32
+    },
+    "collect star": {
+        "addr": 2219068,
+        "length": 40
+    },
+    "star spawn (with coordinates)": {
+        "addr": 2219108,
+        "length": 40
+    },
+    "hidden red coin star": {
+        "addr": 2219148,
+        "length": 32
+    },
+    "red coin": {
+        "addr": 2219180,
+        "length": 56
+    },
+    "red coin star for bowser courses with save": {
+        "addr": 2219236,
+        "length": 24
+    },
+    "hidden star": {
+        "addr": 2219260,
+        "length": 32
+    },
+    "check point": {
+        "addr": 2219292,
+        "length": 36
+    },
+    "pitoune 2": {
+        "addr": 2219328,
+        "length": 56
+    },
+    "falling when mario is near / falling block inside volcano": {
+        "addr": 2219384,
+        "length": 44
+    },
+    "pitoune": {
+        "addr": 2219428,
+        "length": 56
+    },
+    "1up \"walking\"": {
+        "addr": 2219484,
+        "length": 52
+    },
+    "1up running away": {
+        "addr": 2219536,
+        "length": 52
+    },
+    "sliding 1-up": {
+        "addr": 2219588,
+        "length": 56
+    },
+    "1-up!": {
+        "addr": 2219644,
+        "length": 56
+    },
+    "1-up (jumps when approached)": {
+        "addr": 2219700,
+        "length": 56
+    },
+    "hidden 1-up (enable when behavior 0x13004124 is touched)": {
+        "addr": 2219756,
+        "length": 56
+    },
+    "hidden 1-up trigger": {
+        "addr": 2219812,
+        "length": 36
+    },
+    "1-up (hidden in tree/pole)": {
+        "addr": 2219848,
+        "length": 56
+    },
+    "unused collectible item?": {
+        "addr": 2219904,
+        "length": 36
+    },
+    "hidden 1-up in tree": {
+        "addr": 2219940,
+        "length": 24
+    },
+    "controlable platform": {
+        "addr": 2219964,
+        "length": 52
+    },
+    "game crashes, collision pointer": {
+        "addr": 2220016,
+        "length": 40
+    },
+    "sliding snow mound": {
+        "addr": 2220100,
+        "length": 44
+    },
+    "snow mound spawn (only in snow man's land)": {
+        "addr": 2220144,
+        "length": 20
+    },
+    "platform floating on water (square)": {
+        "addr": 2220164,
+        "length": 48
+    },
+    "platform floating on water (rectangular)": {
+        "addr": 2220212,
+        "length": 48
+    },
+    "platform floating on water (jolly roger bay)": {
+        "addr": 2220260,
+        "length": 48
+    },
+    "arrow lift": {
+        "addr": 2220308,
+        "length": 52
+    },
+    "orange number": {
+        "addr": 2220360,
+        "length": 40
+    },
+    "manta ray": {
+        "addr": 2220400,
+        "length": 48
+    },
+    "falling pillar": {
+        "addr": 2220448,
+        "length": 36
+    },
+    "pillar base behav": {
+        "addr": 2220512,
+        "length": 32
+    },
+    "beta skull box / floating jolly roger box (unused)": {
+        "addr": 2220544,
+        "length": 44
+    },
+    "oscillating pendulum": {
+        "addr": 2220588,
+        "length": 32
+    },
+    "treasure chests (ship)": {
+        "addr": 2220620,
+        "length": 36
+    },
+    "treasure chests (jolly)": {
+        "addr": 2220656,
+        "length": 36
+    },
+    "treasure chests": {
+        "addr": 2220692,
+        "length": 36
+    },
+    "beta chest?": {
+        "addr": 2220728,
+        "length": 40
+    },
+    "mips rabbit": {
+        "addr": 2220796,
+        "length": 60
+    },
+    "description: yoshi behavior": {
+        "addr": 2220856,
+        "length": 72
+    },
+    "koopa": {
+        "addr": 2220928,
+        "length": 80
+    },
+    "waving koopa flag": {
+        "addr": 2221008,
+        "length": 40
+    },
+    "koopa flag": {
+        "addr": 2221048,
+        "length": 60
+    },
+    "pokey": {
+        "addr": 2221108,
+        "length": 52
+    },
+    "pokey head": {
+        "addr": 2221160,
+        "length": 48
+    },
+    "description: bat": {
+        "addr": 2221208,
+        "length": 68
+    },
+    "fly guy": {
+        "addr": 2221276,
+        "length": 80
+    },
+    "goomba walk": {
+        "addr": 2221356,
+        "length": 68
+    },
+    "goombas group": {
+        "addr": 2221424,
+        "length": 28
+    },
+    "chain chomp": {
+        "addr": 2221452,
+        "length": 88
+    },
+    "chain-chomp chains": {
+        "addr": 2221540,
+        "length": 56
+    },
+    "poundable": {
+        "addr": 2221596,
+        "length": 76
+    },
+    "exploding when chain chomp is freed": {
+        "addr": 2221672,
+        "length": 48
+    },
+    "wiggler": {
+        "addr": 2221720,
+        "length": 72
+    },
+    "wiggler body parts": {
+        "addr": 2221792,
+        "length": 56
+    },
+    "evil lakitu": {
+        "addr": 2221848,
+        "length": 60
+    },
+    "lakitu": {
+        "addr": 2221908,
+        "length": 52
+    },
+    "fwoosh blowing wind": {
+        "addr": 2221960,
+        "length": 36
+    },
+    "fwoosh (cloud enemy) face": {
+        "addr": 2221996,
+        "length": 28
+    },
+    "spinny": {
+        "addr": 2222024,
+        "length": 56
+    },
+    "monty mole": {
+        "addr": 2222080,
+        "length": 88
+    },
+    "monty mole in hole": {
+        "addr": 2222168,
+        "length": 32
+    },
+    "monty mole rock": {
+        "addr": 2222200,
+        "length": 56
+    },
+    "dplatform on tracks (param1 = collision pointer, param2 = track#)": {
+        "addr": 2222256,
+        "length": 68
+    },
+    "metal balls for elevators (not actual paths)": {
+        "addr": 2222324,
+        "length": 40
+    },
+    "solid & moving": {
+        "addr": 2222364,
+        "length": 40
+    },
+    "four rotating platforms": {
+        "addr": 2222404,
+        "length": 40
+    },
+    "ferris wheel platform": {
+        "addr": 2222444,
+        "length": 32
+    },
+    "water bubble drop": {
+        "addr": 2222476,
+        "length": 28
+    },
+    "water bomb": {
+        "addr": 2222504,
+        "length": 44
+    },
+    "water bomb shadow": {
+        "addr": 2222548,
+        "length": 28
+    },
+    "rotating clock platform": {
+        "addr": 2222992,
+        "length": 44
+    },
+    "clock pendulum": {
+        "addr": 2222628,
+        "length": 56
+    },
+    "clock metal platform": {
+        "addr": 2222684,
+        "length": 56
+    },
+    "sliding platform": {
+        "addr": 2223180,
+        "length": 44
+    },
+    "rotating gear platform": {
+        "addr": 2222796,
+        "length": 44
+    },
+    "pushable clock box": {
+        "addr": 2222840,
+        "length": 48
+    },
+    "clock platform behavior (moving up and down custom)": {
+        "addr": 2222888,
+        "length": 60
+    },
+    "clock main rotation": {
+        "addr": 2222948,
+        "length": 44
+    },
+    "mr. blizzard": {
+        "addr": 2223036,
+        "length": 76
+    },
+    "snowball from snowman": {
+        "addr": 2223112,
+        "length": 68
+    },
+    "octogonal platform rotating": {
+        "addr": 2223224,
+        "length": 40
+    },
+    "animates on floor switch press (bowser staircase / pyramidal platforms)": {
+        "addr": 2223264,
+        "length": 44
+    },
+    "moves when stepping on it / climbable cage": {
+        "addr": 2223308,
+        "length": 44
+    },
+    "recover life": {
+        "addr": 2223352,
+        "length": 24
+    },
+    "cannon": {
+        "addr": 2223376,
+        "length": 24
+    },
+    "cannon barrel (shoots bubbles)": {
+        "addr": 2223400,
+        "length": 24
+    },
+    "unagi the eel (swimming)": {
+        "addr": 2223424,
+        "length": 56
+    },
+    "dorrie": {
+        "addr": 2223504,
+        "length": 68
+    },
+    "haunted chair": {
+        "addr": 2223572,
+        "length": 80
+    },
+    "mad piano": {
+        "addr": 2223652,
+        "length": 72
+    },
+    "flying bookend": {
+        "addr": 2223724,
+        "length": 72
+    },
+    "bookshelf proximity check?": {
+        "addr": 2223796,
+        "length": 32
+    },
+    "bookshelf thing?": {
+        "addr": 2223828,
+        "length": 32
+    },
+    "book switch (big boo's haunt)": {
+        "addr": 2223860,
+        "length": 44
+    },
+    "piranha plant": {
+        "addr": 2223904,
+        "length": 56
+    },
+    "flame (spawned from small piranha plant)": {
+        "addr": 2223960,
+        "length": 52
+    },
+    "fire spewer": {
+        "addr": 2224012,
+        "length": 32
+    },
+    "flame (spawned from fly guys)": {
+        "addr": 2224044,
+        "length": 52
+    },
+    "snufit": {
+        "addr": 2224096,
+        "length": 60
+    },
+    "snuffit balls": {
+        "addr": 2224156,
+        "length": 64
+    },
+    "eyerok boss": {
+        "addr": 2224308,
+        "length": 28
+    },
+    "eyerok hand": {
+        "addr": 2224336,
+        "length": 64
+    },
+    "klepto behav": {
+        "addr": 2224400,
+        "length": 68
+    },
+    "description: multiple birds flying": {
+        "addr": 2224468,
+        "length": 44
+    },
+    "racing penguin": {
+        "addr": 2224512,
+        "length": 68
+    },
+    "finishing line check": {
+        "addr": 2224580,
+        "length": 24
+    },
+    "shortcut check": {
+        "addr": 2224604,
+        "length": 24
+    },
+    "haunted room check?": {
+        "addr": 2224628,
+        "length": 32
+    },
+    "clam shell behav": {
+        "addr": 2224704,
+        "length": 40
+    },
+    "skeeter": {
+        "addr": 2224744,
+        "length": 56
+    },
+    "water wave type?": {
+        "addr": 2224800,
+        "length": 24
+    },
+    "pendulum-like movement": {
+        "addr": 2224824,
+        "length": 52
+    },
+    "donut platform group": {
+        "addr": 2224876,
+        "length": 24
+    },
+    "donut platform (falls and explodes when stepped on)": {
+        "addr": 2224900,
+        "length": 36
+    },
+    "yellow poles (dire, dire docks)": {
+        "addr": 2224936,
+        "length": 68
+    },
+    "shadow star for red star": {
+        "addr": 2225004,
+        "length": 44
+    },
+    "three butterflies group (2 turn into bombs, 1 gives a mushroom)": {
+        "addr": 2225048,
+        "length": 68
+    },
+    "bubba": {
+        "addr": 2225116,
+        "length": 52
+    },
+    "lakitu at the beginning": {
+        "addr": 2225168,
+        "length": 40
+    },
+    "peach at the beginning": {
+        "addr": 2225208,
+        "length": 36
+    },
+    "birds at end 1": {
+        "addr": 2225244,
+        "length": 36
+    },
+    "birds at end 2": {
+        "addr": 2225280,
+        "length": 36
+    },
+    "calls intro scene stuff (lakitu, peach, etc.)": {
+        "addr": 2225316,
+        "length": 28
+    }
+}
