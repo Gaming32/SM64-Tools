@@ -1,5 +1,5 @@
 script {
     loop 10 {
-        scale 500
+        scale 125
     }
 }

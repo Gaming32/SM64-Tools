@@ -90,7 +90,7 @@ def _comp_arg_parse(args):
         arglist.append(statedict['data'])
     return arglist
 
-def _command(command, args):
+def _command(command, args, funcs):
     res = b''
     if command == 'bytecode':
         res += bytes_type(''.join(args))
@@ -142,7 +142,14 @@ def _command(command, args):
 
     return res
 
-def script_compile(file):
+def _comp_command(command, context):
+    pass
+
+def script_compile(file, return_context=False):
+    context = {
+        'funcs': [],
+        'preset': None,
+    }
     res = b''
     layer = []
     for line in file:
@@ -163,7 +170,9 @@ def script_compile(file):
             layer.append(command)
         elif command == '}':
             command = layer.pop() + 'end'
-        res += _command(command, args)
+        res += _command(command, args, context['funcs'])
+    if return_context:
+        res = (res, context)
     return res
 
 def main(args=sys.argv[1:]):
