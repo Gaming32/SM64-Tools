@@ -1,5 +1,7 @@
-import sys, argparse
-import string
+import sys, os
+import argparse, string
+
+_presetdict = None
 
 #region Old Header
 # commands = {
@@ -175,6 +177,36 @@ def script_compile(file, return_context=False):
         res = (res, context)
     return res
 
+def inject(bytecode:bytes, rom:str, offset:int, maxlength=None) -> int:
+    if maxlength is not None:
+        bclen = len(bytecode)
+        if maxlength > bclen:
+            bytecode = bytecode.ljust(maxlength, '\0')
+        elif maxlength < bclen:
+            raise ValueError('bytecode must be smaller than maxlength')
+    romfile = open(rom, 'r+b')
+    file.seek(offset)
+    ret = romfile.write(bytecode)
+    romfile.close()
+    return ret
+
+def get_preset_dict():
+    global _presetdict
+    if _presetdict is None:
+        import json
+        filepath = os.path.join(os.path.dirname(__file__), 'presetdict.json')
+        _presetdict = json.load(open(filepath))
+    return _presetdict
+
+def get_inject_preset(label):
+    label = label.strip()
+    if label.endswith(' Behavior'):
+        label = label[:-len(' Behavior')]
+    label = label.lower()
+    presets = get_preset_dict()
+    preset = presets[label]
+    return preset['addr'], preset['length']
+
 def main(args=sys.argv[1:]):
     # parser = argparse.ArgumentParser(prog='python -m sm64tools script')
     parser = argparse.ArgumentParser(description='tools for behavior scripting')
@@ -184,15 +216,23 @@ def main(args=sys.argv[1:]):
     comp_parser.add_argument('file', type=argparse.FileType('r'), help='the script to compile')
     comp_parser.add_argument('-t', '--output-type', dest='output_type', choices=['flat', 'pretty'], default='pretty',
         help="the way to display the compiled bytecode. 'flat' looks like this: 1a3d9f; 'pretty' looks like this: 1A 3D 9F. defaults to 'pretty'")
+    comp_parser.add_argument('-o', '--output-file', dest='output_file', type=argparse.FileType('wb'), action='store_true')
+    
+    inject_parser = subp_man.add_parser('inject')
+    comp_parser.add_argument('script', type=argparse.FileType('r'))
 
     args = parser.parse_args(args)
     if args.job == 'compile':
         comp = script_compile(args.file)
-        if args.output_type == 'flat':
-            output_type = 0
-        elif args.output_type == 'pretty':
-            output_type = 1
-        print(inv_bytes_type(comp, output_type))
+        if args.output_file is None:
+            if args.output_type == 'flat':
+                output_type = 0
+            elif args.output_type == 'pretty':
+                output_type = 1
+            print(inv_bytes_type(comp, output_type))
+        else:
+            args.output_file.write(comp)
+            args.output_file.close()
 
 if __name__ == '__main__': main()
     # script_compile(open('example_loop.mbs'))
